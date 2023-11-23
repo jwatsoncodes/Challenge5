@@ -1,3 +1,13 @@
+Completed work day Scheduler
+
+github link: https://github.com/jwatsoncodes/Challenge5
+live link: https://jwatsoncodes.github.io/Challenge5/
+
+
+
+
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
